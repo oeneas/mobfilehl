@@ -2,6 +2,10 @@
   "name": "mobfilehl",
   "displayName": "MobFileHL",
   "description": "Highlights Mob Files for Age of Chaos.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oeneas/mobfilehl"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
