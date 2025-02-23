@@ -25,15 +25,24 @@
             {
                 "scope": "constant.numeric.mob",
                 "settings": {
-                    "foreground": "#00e1ff"
+                    "foreground": "#ee930b"
                 }
             },
             {
                 "scope": "entity.name.mob",
                 "settings": {
-                  "foreground": "#0000FF"  // Blue color
+                  "foreground": "#5cdfcd"  // Blue color
+                }
+              },
+              {
+                "scope": "entity.mob.prog",
+                "settings": {
+                  "foreground": "#cfce88"  // Blue color
                 }
               }
         ]
-    }
+    },
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false
 }
+
