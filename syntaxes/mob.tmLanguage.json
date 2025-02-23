@@ -1,0 +1,19 @@
+{
+  "scopeName": "source.mob",
+  "name": "Mob File",
+  "fileTypes": ["mob"],
+  "patterns": [
+    {
+      "name": "constant.numeric.mob",
+      "match": "^#\\d+"
+    },
+    {
+      "name": "entity.name.mob",
+      "match": "^[A-Za-z].*?~$"
+    },
+    {
+      "name": "entity.mob.prog",
+      "match": "^>.*~$"
+    }
+  ]
+}

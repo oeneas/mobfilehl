@@ -1,0 +1,39 @@
+{
+    "[mob]": {
+        "editor.semanticHighlighting.enabled": false
+    },
+    "files.exclude": {
+        "out": false,
+        "dist": false
+    },
+    "search.exclude": {
+        "out": true,
+        "dist": true
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "constant.numeric": {
+                "foreground": "#4520e6",
+                "fontStyle": ""
+            }
+        }
+    },
+    "typescript.tsc.autoDetect": "off",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "constant.numeric.mob",
+                "settings": {
+                    "foreground": "#00e1ff"
+                }
+            },
+            {
+                "scope": "entity.name.mob",
+                "settings": {
+                  "foreground": "#0000FF"  // Blue color
+                }
+              }
+        ]
+    }
+}
