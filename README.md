@@ -20,7 +20,7 @@ Open any `.mob` file in Visual Studio Code, and the syntax highlighting will be 
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/your-username/mobfilehl).
+Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/oeneas/mobfilehl).
 
 ## License
 
